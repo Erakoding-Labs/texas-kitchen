@@ -15,7 +15,7 @@ export const featured: FeaturedProduct[] = [
 		name: 'Country Sourdough',
 		tagline: 'Naturally leavened over 24 hours for a deep, tangy crumb.',
 		price: '$8.00',
-		image: img('photo-1585478259715-876acc5be8eb'),
+		image: img('photo-1586444248902-2f64eddc13df'),
 		badge: 'Signature'
 	},
 	{
@@ -36,7 +36,7 @@ export const featured: FeaturedProduct[] = [
 		name: 'Texas Peach Galette',
 		tagline: 'Free-form summer tart with Fredericksburg peaches.',
 		price: '$6.50',
-		image: img('photo-1621743478914-cc8a86d7e9b5'),
+		image: img('photo-1535920527002-b35e96722eb9'),
 		badge: 'Seasonal'
 	}
 ];

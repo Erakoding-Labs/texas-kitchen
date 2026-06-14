@@ -33,7 +33,7 @@
 	];
 
 	const team = [
-		{ name: 'The Head Baker', role: 'Sourdough & Breads', image: 'https://images.unsplash.com/photo-1583394293214-28a5b42a02c1?auto=format&fit=crop&w=600&q=80' },
+		{ name: 'The Head Baker', role: 'Sourdough & Breads', image: 'https://images.unsplash.com/photo-1595152772835-219674b2a8a6?auto=format&fit=crop&w=600&q=80' },
 		{ name: 'The Pastry Chef', role: 'Croissants & Danish', image: 'https://images.unsplash.com/photo-1577219491135-ce391730fb2c?auto=format&fit=crop&w=600&q=80' },
 		{ name: 'The Barista', role: 'Coffee & Hospitality', image: 'https://images.unsplash.com/photo-1559925393-8be0ec4767c8?auto=format&fit=crop&w=600&q=80' },
 		{ name: 'The Market Lead', role: 'Local Goods', image: 'https://images.unsplash.com/photo-1534432182912-63863115e106?auto=format&fit=crop&w=600&q=80' }
@@ -82,8 +82,8 @@
 		</div>
 		<div class="reveal order-1 lg:order-2" use:inview={{ delay: 120 }}>
 			<div class="grid grid-cols-2 gap-4">
-				<img src="https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&w=600&q=80" alt="Fresh croissants in a display basket" loading="lazy" class="aspect-[3/4] w-full rounded-2xl object-cover shadow-soft" />
-				<img src="https://images.unsplash.com/photo-1586444248902-2f64eddc13df?auto=format&fit=crop&w=600&q=80" alt="A baker dusting flour over fresh dough" loading="lazy" class="mt-8 aspect-[3/4] w-full rounded-2xl object-cover shadow-soft" />
+				<img src="https://images.unsplash.com/photo-1530610476181-d83430b64dcd?auto=format&fit=crop&w=600&q=80" alt="A tray of golden croissants fresh from the oven" loading="lazy" class="aspect-[3/4] w-full rounded-2xl object-cover shadow-soft" />
+				<img src="https://images.unsplash.com/photo-1620921568790-c1cf8984624c?auto=format&fit=crop&w=600&q=80" alt="A golden loaf cooling fresh from the oven" loading="lazy" class="mt-8 aspect-[3/4] w-full rounded-2xl object-cover shadow-soft" />
 			</div>
 		</div>
 	</div>

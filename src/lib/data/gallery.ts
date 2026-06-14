@@ -12,7 +12,7 @@ const img = (id: string, w = 900) =>
 export const gallery: GalleryImage[] = [
 	{ src: img('photo-1517433670267-08bbd4be890f'), alt: 'Golden scones cooling on a tray', category: 'Pastries', tall: true },
 	{ src: img('photo-1554118811-1e0d58224f24'), alt: 'Warm, inviting cafe seating area', category: 'Atmosphere' },
-	{ src: img('photo-1585478259715-876acc5be8eb'), alt: 'Rustic sourdough boule with a blistered crust', category: 'Bread', tall: true },
+	{ src: img('photo-1586444248902-2f64eddc13df'), alt: 'Rustic sourdough boule with a blistered crust', category: 'Bread', tall: true },
 	{ src: img('photo-1495474472287-4d71bcdd2085'), alt: 'Pour-over coffee being brewed', category: 'Coffee' },
 	{ src: img('photo-1555507036-ab1f4038808a'), alt: 'Flaky butter croissants stacked on a board', category: 'Pastries' },
 	{ src: img('photo-1606101273945-e9eba91c0dc4'), alt: 'Tray of freshly iced cinnamon rolls', category: 'Pastries', tall: true },
@@ -24,7 +24,7 @@ export const gallery: GalleryImage[] = [
 	{ src: img('photo-1534432182912-63863115e106'), alt: 'Shelves of local jams and market goods', category: 'Market' },
 	{ src: img('photo-1589367920969-ab8e050bbb04'), alt: 'Sliced seeded multigrain loaf', category: 'Bread' },
 	{ src: img('photo-1559925393-8be0ec4767c8'), alt: 'Barista handing a coffee across the counter', category: 'Atmosphere', tall: true },
-	{ src: img('photo-1601000938259-9e92002320b2'), alt: 'Crackly crust of an artisan loaf', category: 'Bread' },
+	{ src: img('photo-1620921568790-c1cf8984624c'), alt: 'Golden artisan loaf fresh from the oven', category: 'Bread' },
 	{ src: img('photo-1464195244916-405fa0a82545'), alt: 'Fruit danish dusted with sugar', category: 'Pastries' }
 ];
 

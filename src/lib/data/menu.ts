@@ -73,7 +73,7 @@ export const menu: MenuCategory[] = [
 				name: 'Everything Croissant',
 				description: 'Cream cheese, scallion, and our house everything blend.',
 				price: '$5.75',
-				image: img('photo-1620921575116-fb8902865800')
+				image: img('photo-1623334044303-241021148842')
 			},
 			{
 				name: 'Raspberry Almond Croissant',
@@ -99,13 +99,13 @@ export const menu: MenuCategory[] = [
 				name: 'Brown Butter Pecan Roll',
 				description: 'Sticky caramel base, toasted pecans, brown-butter glaze.',
 				price: '$6.25',
-				image: img('photo-1583529245888-d9d70d0a4ef0')
+				image: img('photo-1606101273945-e9eba91c0dc4')
 			},
 			{
 				name: 'Texas Sheet Roll',
 				description: 'Cocoa-laced swirl with a fudge ribbon — a Hill Country favorite.',
 				price: '$6.00',
-				image: img('photo-1606101273945-e9eba91c0dc4')
+				image: img('photo-1571115177098-24ec42ed204d')
 			}
 		]
 	},
@@ -144,7 +144,7 @@ export const menu: MenuCategory[] = [
 				name: 'Country Sourdough Boule',
 				description: 'Blistered crust, open crumb, a gentle tang. Our daily staple.',
 				price: '$8.00',
-				image: img('photo-1585478259715-876acc5be8eb'),
+				image: img('photo-1586444248902-2f64eddc13df'),
 				popular: true
 			},
 			{
@@ -163,7 +163,7 @@ export const menu: MenuCategory[] = [
 				name: 'Jalapeño Cheddar Sourdough',
 				description: 'Sharp cheddar and roasted jalapeño in a tangy Texas twist.',
 				price: '$9.50',
-				image: img('photo-1601000938259-9e92002320b2')
+				image: img('photo-1549931319-a545dcf3bc73')
 			}
 		]
 	},
@@ -234,7 +234,7 @@ export const menu: MenuCategory[] = [
 				name: 'Texas Peach Galette',
 				description: 'Free-form summer tart with Fredericksburg peaches and vanilla.',
 				price: '$6.50',
-				image: img('photo-1621743478914-cc8a86d7e9b5'),
+				image: img('photo-1535920527002-b35e96722eb9'),
 				popular: true
 			},
 			{

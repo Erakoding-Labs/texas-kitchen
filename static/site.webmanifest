@@ -1,0 +1,12 @@
+{
+	"name": "Texas Scratch Kitchen",
+	"short_name": "Scratch Kitchen",
+	"description": "Artisan bakery & market in Menard, Texas. Freshly baked, locally loved.",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#FBF6EE",
+	"theme_color": "#3D2B1F",
+	"icons": [
+		{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+	]
+}
